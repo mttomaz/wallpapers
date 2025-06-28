@@ -41,7 +41,7 @@ def write_md(md_file: str, content: str) -> None:
     _ = f.write(content)
 
 
-readme_contents: str = read_md("base_readme.md")
+readme_contents: str = read_md(f"{this_path}/base_readme.md")
 authors: list[str] = sorted(listdir(path=authors_path), key=str.lower)
 
 for author in authors:
