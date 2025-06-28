@@ -24,7 +24,7 @@ def yaml_to_md(file: str) -> str:
   for i in data["wallpapers"]:
     readme += f"""
   <a href=\"{i["link"]}\">
-    <img src=\"./authors/{author_name}/{i["path"]}\" title=\"{i["name"]}\" width=600/>
+    <img src=\"../authors/{author_name}/{i["path"]}\" title=\"{i["name"]}\" width=600/>
   </a>"""
 
   readme += "\n\n  </details>\n</details>\n"
