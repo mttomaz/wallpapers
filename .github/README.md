@@ -1049,6 +1049,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Micah & Sammie Chaffin</summary>
+
+- [Website](https://thechaffins.co/)
+- [Unsplash](https://unsplash.com/@micahandsammiechaffin)
+- [Instagram](https://www.instagram.com/thechaffins/)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/boats-float-on-a-serene-lake-near-mountains-6O6BZerihQw">
+    <img src="./authors/Micah & Sammie Chaffin/lago-di-braies-boats-(4K).jpg" title="Boats float on a serene lake near mountains." width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Mike Yukhtenko</summary>
 
 - [Unsplash](https://unsplash.com/@yamaicle)

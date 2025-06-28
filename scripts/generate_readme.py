@@ -51,4 +51,4 @@ for author in authors:
     if author != authors[-1]:
       readme_contents += "\n\n"
 
-write_md(path.join(root_path, "README.md"), readme_contents)
+write_md(path.join(root_path, ".github", "README.md"), readme_contents)
