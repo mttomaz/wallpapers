@@ -166,6 +166,9 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
   <a href="https://unsplash.com/photos/aL7SA1ASVdQ">
     <img src="../authors/Andrew Coelho/pine-forest-(4K).jpg" title="Lush green pine forest" width=600/>
   </a>
+  <a href="https://unsplash.com/photos/rock-formation-beside-body-of-water-LUBvSohu6D0">
+    <img src="../authors/Andrew Coelho/mossy-gorge-(4K).jpg" title="Rock formation beside body of water" width=600/>
+  </a>
 
   </details>
 </details>
@@ -1135,6 +1138,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Oleg Oleg</summary>
+
+- [Unsplash](https://unsplash.com/@olegbln094)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-natural-rock-archway-over-a-body-of-water-F5y6Yktspgc">
+    <img src="../authors/Oleg Oleg/rock-archway-(4K).jpg" title="A natural rock archway over a body of water." width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Ori-Cloud</summary>
 
 - [DeviantArt](https://www.deviantart.com/ori-cloud/gallery)
@@ -1382,6 +1401,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Sergio Kian</summary>
+
+- [Unsplash](https://unsplash.com/@sergiokian)
+- [Website](https://sergiokian.com)
+- [Instagram](https://www.instagram.com/kianticuno)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/majestic-green-mountain-peaks-rise-in-the-distance-y9uqI0osw40">
+    <img src="../authors/Sergio Kian/mountain-peaks-(4K).jpg" title="Majestic, green mountain peaks rise in the distance." width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>skiegraphicstudio</summary>
 
 - [Website](https://www.skiegraphicstudio.com)
@@ -1525,6 +1562,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Tyler Lastovich</summary>
+
+- [Unsplash](https://unsplash.com/@lastly)
+- [Website](https://lastovich.me/)
+- [Instagram](https://www.instagram.com/lastlystudios)
+- [X](https://x.com/tylerlastovich)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/brown-pathway-surrounded-by-green-pants-on-forest-1z_Vw8cgNRA">
+    <img src="../authors/Tyler Lastovich/into-the-jungle-(4K).jpg" title="brown pathway surrounded by green pants on forest" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Tyler Smith</summary>
 
 - [ArtStation](https://tsmith3d.artstation.com/)
@@ -1561,6 +1617,26 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.pexels.com/photo/road-between-pine-trees-39811">
     <img src="../authors/vee terzy/./road-between-pine-trees-(4K).jpg" title="Road Between Pine Trees" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Yousef Espanioly</summary>
+
+- [Unsplash](https://unsplash.com/@yespanioly)
+- [Instagram](https://www.instagram.com/yespanioly)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/seashore-DA_tplYgTow">
+    <img src="../authors/Yousef Espanioly/waves-(4K).jpg" title="seashore" width=600/>
+  </a>
+  <a href="https://unsplash.com/photos/water-next-to-the-ocean-J2lVMJi44vQ">
+    <img src="../authors/Yousef Espanioly/stranded-boat-(4K).jpg" title="water next to the ocean" width=600/>
   </a>
 
   </details>
